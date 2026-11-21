@@ -22,8 +22,5 @@ int mod(int a, int time)
 {
         return a % time;
 }
-int mod(int a, int time)
-{
-        return a % time;
-}
+
 static inline int oss_ping(void) { return 1; }
